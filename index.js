@@ -6,4 +6,11 @@ function sub(){
 	return total
 }
 
+function div(){
+  let total = num1 / num2
+	return total
+}
+
 console.log(sub())
+console.log(div())
+
