@@ -1,8 +1,9 @@
-let num1 = 2
-let num2 = 5
+let num1 = 55
+let num2 = 27
 
-function sum(num1, num2){
-	return a + b
+function sub(){
+  let total = num1 - num2
+	return total
 }
 
-console.log(sum())
+console.log(sub())
